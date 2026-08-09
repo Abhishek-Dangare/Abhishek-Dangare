@@ -80,11 +80,12 @@ Welcome to my GitHub Profile 🚀
 ## 🚀 Featured Projects
 
 | Project | Description |
-|---------|-------------|
-| 🏦 **Online Banking System** | Java, JDBC, Servlets, JSP, Oracle SQL |
+| ------- | ----------- |
+| 🚀 **CareerNova – Smart Recruitment & Career Management Platform** | Java-based recruitment platform with Admin, Company, HR & Candidate modules |
 | 🎓 **Student Management System** | CRUD Operations using Java & Oracle |
 | 🛒 **Electronic Store Management System** | E-Commerce Web Application |
 | 📝 **Registration Form** | HTML, CSS, JavaScript |
+
 ## 💬 Developer Quote
 
 > "Learning never stops. Every project makes me a better developer."
